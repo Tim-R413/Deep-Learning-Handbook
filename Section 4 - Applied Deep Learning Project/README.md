@@ -3,8 +3,11 @@
 
 ### current section layout:
 Module 1 - simple image classifier (clothes) (already in github)
+
 Module 2- advanced image classifier (flowers)https://www.tensorflow.org/tutorials/images/classification
+
 Module 3- tensorflow hub intro /transfer learning https://www.tensorflow.org/hub/tutorials/tf2_image_retraining
+
 Module 4- custom classifier project (use tensorflow datasets to get a collection of images and train a new classifier)
 
 
