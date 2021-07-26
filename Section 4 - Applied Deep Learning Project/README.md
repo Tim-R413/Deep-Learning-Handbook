@@ -8,7 +8,7 @@ Module 3- tensorflow hub intro /transfer learning https://www.tensorflow.org/hub
 Module 4- custom classifier project (use tensorflow datasets to get a collection of images and train a new classifier)
 
 
-###section layout orginal 
+### section layout orginal 
 --start with the basic clothing image classifier example in module 1 
 
 -- module two is a similar classifier but applied to a higher resolution dataset ((student can choose the dataset they want to work with from a list ?)
